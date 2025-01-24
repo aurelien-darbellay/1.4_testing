@@ -7,7 +7,7 @@ import java.util.Optional;
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 import static org.assertj.core.api.MapAssert.assertThatMap;
 
-public class TestingWithAssertJ {
+public class TestingWithAssertJEx1Ex2Ex3Ex5Ex7 {
     @Test
     void testIntegersForEquality() {
         assertThat(2)
